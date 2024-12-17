@@ -1,1 +1,2 @@
-# test_repo
+echo "# Project Title" 
+"This is the project description." 
